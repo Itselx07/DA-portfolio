@@ -1,0 +1,124 @@
+.cv{
+
+display: flex;
+align-items: center;
+width: 100%;
+justify-content: center;
+
+} 
+
+.cv a{
+    color: var(--white-1);
+    background: var(--onyx);
+    /* font-size: var(--fs-8); */
+    font-weight: var(--fw-300);
+    width: max-content;
+    padding: 10px 44px;
+    border-radius: 8px;
+}
+.resume_logo{
+    display: flex;
+        justify-content: center;
+        align-items: center;
+}
+
+#logo_resume{
+    margin-left: 10px;
+}
+
+  
+#main-2{
+    max-width: 800px;
+    margin: 2em auto;
+    padding: 0 1em;
+  }
+  #main-2 p{
+color: #fff;
+  }
+  
+  #main-2  h1, h2 {
+    color: #a9a9a9;
+  }
+  #main-2 ul {
+    margin-left: 1em;
+  }
+  
+  footer {
+    text-align: center;
+    background: #212529;
+    color: white;
+    padding: 1em 0;
+    margin-top: 4em;
+  }
+  .logo-pr p{
+    display: flex;
+  }
+  .project-sec {
+    background-color: #1e1e1e;
+    color: #a9a9a9;
+    padding: 2rem;
+    border-radius: 10px;
+    margin-top: 2rem;
+  }
+  
+  .project-sec a {
+    color: #FFF;
+    text-decoration: none;
+  }
+  
+  .project-section h2, .project-section h3 {
+    color:  var(--orange-yellow-crayola);
+    margin-top: 1rem;
+  }
+  .insights-section {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .insights-title {
+    font-size: 28px;
+    color: #FFF;
+    margin-bottom: 20px;
+  }
+  
+  .insights-list {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  .insight-category {
+    margin-bottom: 20px;
+  }
+  
+  .category-title {
+    font-weight: bold;
+    color: #FFFF;
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .insight-details {
+    list-style-type: circle;
+    padding-left: 25px;
+  }
+  
+  .insight-details li {
+    line-height: 1.6;
+    margin-bottom: 10px;
+    list-style-type: circle;
+  }
+  
+  .p-link{
+    display: flex;
+  }
+  .style-link{
+    color: #fff;
+  }
+  .sub-h{
+    color: #fff
+  }
+
+.churn-img img{
+  max-width: 100%;
+  display: block;
+}
